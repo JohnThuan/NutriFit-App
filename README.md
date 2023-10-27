@@ -13,7 +13,7 @@
         -   [Installation](#installation)
 
 ## About
-The sportify app is a software aimed at beginner gymgoers who are attempting to change their lives through physical endeavours. It offers educational articles about what every beginner needs to know before starting their journey, along with nutriotional and dietary data and statistics to help them build a better diet. The app's goal is to impact those who are starting to go to the gym, but are unsure of what to do.
+The sportify app is a software aimed at beginner gymgoers who are attempting to change their lives through physical endeavours. It offers educational articles about what every beginner needs to know before starting their journey, along with nutriotional and dietary data/statistics to help them build a better diet. The app's goal is to impact those who are starting to go to the gym, but are unsure of what to do.
 
           
 ## Features
@@ -23,7 +23,7 @@ The sportify app is a software aimed at beginner gymgoers who are attempting to 
 -Planning
 
 ## Screenshot
-s
+
 
 ## Getting Started
 
