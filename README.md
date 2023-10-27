@@ -23,7 +23,15 @@ The sportify app is a software aimed at beginner gymgoers who are attempting to 
 -Planning
 
 ## Screenshot
-
+<p float='left'>
+<img src="food/Home page.jpg" width="45%" alt='screen1'>
+<img src="food/BuildingMenu.jpg" width="45%" alt='screen1'>
+<img src="food/Setting.jpg" width="45%" alt='screen1'>
+<img src="food/Tracking.jpg" width="45%" alt='screen1'>
+<img src="food/Food.jpg" width="45%" alt='screen1'>
+<img src="food/Food.jpg" width="45%" alt='screen1'>
+<img src="food/Food2.jpg" width="45%" alt='screen1'>
+</p>
 
 ## Getting Started
 
